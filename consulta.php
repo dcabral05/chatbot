@@ -8,4 +8,5 @@ foreach ($mensajes as $mensaje) {
     echo "Usuario: " . $mensaje['usuario'] . " - Mensaje: " . $mensaje['mensaje'] . "<br>";
 }
 
+//hola
 ?>
